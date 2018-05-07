@@ -1,0 +1,24 @@
+sml20@LAPTOP-8E4GQM0G MINGW64 ~/HW-Wireframe (master)
+$ git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 723 bytes | 723.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/bmu190/HW-Wireframe.git
+   ef9be52..64165f2  master -> master
+
+sml20@LAPTOP-8E4GQM0G MINGW64 ~/HW-Wireframe (master)
+$ git push origen master
+fatal: 'origen' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+sml20@LAPTOP-8E4GQM0G MINGW64 ~/HW-Wireframe (master)
+$ git push origin master
+Everything up-to-date
+
+sml20@LAPTOP-8E4GQM0G MINGW64 ~/HW-Wireframe (master)
+$
